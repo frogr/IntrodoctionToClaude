@@ -8,7 +8,7 @@ class WeatherApp
   API_BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
   
   def initialize
-    @api_key = '07d51ae6758bd4024e999acebb93fba5'
+    @api_key = 'xyz - this api key is discontinued'
   end
   
   def run(args)
